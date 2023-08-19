@@ -1,2 +1,0 @@
-03-04/course_agv_control:03-04/course_agv_description:03-04/course_agv_gazebo:03-04/course_agv_nav
--DCATKIN_DEVEL_PREFIX=/home/chengrui/MyFile/course2023-0304/devel -DCMAKE_INSTALL_PREFIX=/home/chengrui/MyFile/course2023-0304/install -G Unix Makefiles
